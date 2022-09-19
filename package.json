@@ -1,0 +1,8 @@
+{
+  "name": "nodejs-the-complete-guide",
+  "version": "1.0.0",
+  "description": "The complete NodeJS guide",
+  "main": "index.js",
+  "author": "Matheus Enrique <matheus.hpp135@gmail.com>",
+  "license": "MIT"
+}
