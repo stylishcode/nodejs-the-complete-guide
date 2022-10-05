@@ -1,4 +1,3 @@
-import { createReadStream, PathLike } from "fs";
 import { createServer, IncomingMessage, ServerResponse } from "http";
 
 /*
